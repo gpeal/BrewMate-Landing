@@ -1,0 +1,11 @@
+.feature-inner p {
+  font-size: 19px;
+}
+
+.btn-appstore {
+  background-size: 300px;
+  margin: 0px auto;
+  width: 300px;
+  height: 103px;
+  display: block;
+}

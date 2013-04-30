@@ -255,6 +255,7 @@ h1 {
 }
 .btn-appstore {
     text-align: left;
+    background-image: url("../img/app-store-large.png");
 }
 .btn-appstore span {
     display: block;
