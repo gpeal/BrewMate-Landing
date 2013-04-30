@@ -6,5 +6,5 @@ class App < Sinatra::Base
 end
 
 get '/' do
-  File.new('index.html').readlines
+  File.new('index-v3.html').readlines
 end
